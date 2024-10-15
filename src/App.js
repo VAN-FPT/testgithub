@@ -7,7 +7,7 @@ import Search from "./components/Search";
 const App = () => {
   return ( 
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/about" element={<About/>}/>
@@ -16,7 +16,7 @@ const App = () => {
           <Route path="/search" element={<Search/>}/>
           <Route path="*" element={<Home/>}/>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
    );
 }
