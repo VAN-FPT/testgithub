@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/testgithub/static/css/main.7b334172.css",
+    "main.js": "/testgithub/static/js/main.ebdeb044.js",
+    "static/media/nonac2.png": "/testgithub/static/media/nonac2.61e4e9113bfbfc92961d.png",
+    "static/media/ac1.png": "/testgithub/static/media/ac1.133172dd14db9344f382.png",
+    "static/media/nomal2.png": "/testgithub/static/media/nomal2.85a442545487fbc2872b.png",
+    "static/media/nonac1.png": "/testgithub/static/media/nonac1.d4048f346e8aa37af73c.png",
+    "static/media/nomal.png": "/testgithub/static/media/nomal.8778d077592074519913.png",
+    "static/media/ac2.png": "/testgithub/static/media/ac2.194d19ec1145deb825d6.png",
+    "static/media/icu.png": "/testgithub/static/media/icu.2a2394753e3c1e5ffc8b.png",
+    "static/media/img4.png": "/testgithub/static/media/img4.2a2394753e3c1e5ffc8b.png",
+    "static/media/nomal1.png": "/testgithub/static/media/nomal1.8d1deb698bbe5d964fba.png",
+    "static/media/ac.png": "/testgithub/static/media/ac.6973b58cb5cb7fa6e497.png",
+    "static/media/nonac.png": "/testgithub/static/media/nonac.10386f6d6dc1328648ce.png",
+    "static/media/teamSigma.png": "/testgithub/static/media/teamSigma.425677df2a705f9ce1ec.png",
+    "static/media/img2.png": "/testgithub/static/media/img2.19c3ea3bd31a2aae2616.png",
+    "static/media/icu1.png": "/testgithub/static/media/icu1.d178e7f919f77b094fcd.png",
+    "static/media/img5.png": "/testgithub/static/media/img5.d178e7f919f77b094fcd.png",
+    "static/media/img3.png": "/testgithub/static/media/img3.c2a9a40db8421c6e8f70.png",
+    "static/media/img8.png": "/testgithub/static/media/img8.d3f08fd87dbed8880510.png",
+    "static/media/img7.png": "/testgithub/static/media/img7.4da7d4097c82c75377a0.png",
+    "static/media/img10.png": "/testgithub/static/media/img10.c271df414c9c1d98c48e.png",
+    "static/media/img9.png": "/testgithub/static/media/img9.c951c0c002703dd25bb1.png",
+    "static/media/bg1.png": "/testgithub/static/media/bg1.ebb2465025e856a2e259.png",
+    "static/media/img1.png": "/testgithub/static/media/img1.63368d3c8ddd24926a0d.png",
+    "static/media/icu2.png": "/testgithub/static/media/icu2.8ce3126c16a4c9d1839f.png",
+    "static/media/img6.png": "/testgithub/static/media/img6.8ce3126c16a4c9d1839f.png",
+    "static/media/lgsc.png": "/testgithub/static/media/lgsc.accc5dfa76f83305e1b3.png",
+    "static/media/logo.png": "/testgithub/static/media/logo.e5949ef0596c2bca22ea.png",
+    "static/media/maunen.png": "/testgithub/static/media/maunen.79fee1633665ca98a344.png",
+    "index.html": "/testgithub/index.html",
+    "main.7b334172.css.map": "/testgithub/static/css/main.7b334172.css.map",
+    "main.ebdeb044.js.map": "/testgithub/static/js/main.ebdeb044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b334172.css",
+    "static/js/main.ebdeb044.js"
+  ]
+}
